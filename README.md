@@ -1,6 +1,6 @@
 I’m @quarian, but you can call me Miro.
 
-I'm a tech generalist, currently working with data journalism and loving it.
+I'm a tech generalist, currently working with full stack web development data journalism and loving it.
 
 <!---
 quarian/quarian is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
